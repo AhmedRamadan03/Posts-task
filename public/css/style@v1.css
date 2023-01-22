@@ -1,0 +1,16 @@
+.btn-secondary{
+    background: #c8cbcd;
+    border-color: #c8cbcd;
+    color: black;
+
+}
+.btn-secondary:hover{
+    background: #dcdcdd;
+    border-color: #dcdcdd;
+    color: black;
+}
+.content{
+    box-shadow: 0 0 16px -7px;
+    /* height:500px   ;
+    overflow-y: scroll; */
+}
