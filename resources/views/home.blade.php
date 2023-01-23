@@ -35,7 +35,7 @@
                             </div>
                             <div class="col-10 pt-3">
                                 <h5><b>{{ optional($item->user)->name }}</b></h5>
-                                <p><small>{{ $item->created_at->diffForHumans() }}</small></p>
+                                <p><small>{{ $item->updated_at->diffForHumans() }}</small></p>
                             </div>
                         </div>
                         <hr>
